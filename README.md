@@ -1,4 +1,4 @@
-# hehuifan-first-project
+# 何辉帆-first-project
 何辉帆的第一个GitHub测试项目
 ## 项目介绍
 本项目是何辉帆的第一个GitHub测试项目，用于学习和掌握GitHub仓库的创建、README文件编写以及代码版本管理的基础操作，是个人GitHub使用的入门实践项目。
